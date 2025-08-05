@@ -1,0 +1,22 @@
+[
+  {
+    "id": "C_D_Q001",
+    "title": "Maximum of Two Numbers",
+    "description": "Print the larger of two numbers.",
+    "languages": ["python", "c", "cpp"],
+    "test_cases": [
+      { "input": "10 20", "expected_output": "20" },
+      { "input": "7 7", "expected_output": "7" }
+    ]
+  },
+  {
+    "id": "C_D_Q002",
+    "title": "Factorial of a Number",
+    "description": "Read an integer and print its factorial.",
+    "languages": ["python", "c", "cpp"],
+    "test_cases": [
+      { "input": "5", "expected_output": "120" },
+      { "input": "0", "expected_output": "1" }
+    ]
+  }
+]

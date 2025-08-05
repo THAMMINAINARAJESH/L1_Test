@@ -1,0 +1,22 @@
+[
+  {
+    "id": "G_H_Q001",
+    "title": "Nth Fibonacci Number",
+    "description": "Print the Nth Fibonacci number.",
+    "languages": ["python", "c", "cpp"],
+    "test_cases": [
+      { "input": "5", "expected_output": "5" },
+      { "input": "10", "expected_output": "55" }
+    ]
+  },
+  {
+    "id": "G_H_Q002",
+    "title": "Swap Two Numbers",
+    "description": "Swap two integers without using a third variable.",
+    "languages": ["python", "c", "cpp"],
+    "test_cases": [
+      { "input": "3 4", "expected_output": "4 3" },
+      { "input": "10 20", "expected_output": "20 10" }
+    ]
+  }
+]

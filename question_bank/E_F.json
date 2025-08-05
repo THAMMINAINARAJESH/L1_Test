@@ -1,0 +1,22 @@
+[
+  {
+    "id": "E_F_Q001",
+    "title": "Leap Year Check",
+    "description": "Check if a given year is a leap year.",
+    "languages": ["python", "c", "cpp"],
+    "test_cases": [
+      { "input": "2000", "expected_output": "Leap" },
+      { "input": "1900", "expected_output": "Not Leap" }
+    ]
+  },
+  {
+    "id": "E_F_Q002",
+    "title": "Prime Number Check",
+    "description": "Check if a number is prime.",
+    "languages": ["python", "c", "cpp"],
+    "test_cases": [
+      { "input": "7", "expected_output": "Prime" },
+      { "input": "9", "expected_output": "Not Prime" }
+    ]
+  }
+]

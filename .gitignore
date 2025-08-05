@@ -1,0 +1,10 @@
+# Ignore all recordings and video files
+recordings/
+*.webm
+*.mp4
+*.wav
+
+# Ignore Python cache and IDE folders
+__pycache__/
+*.pyc
+.idea/

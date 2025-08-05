@@ -1,0 +1,22 @@
+[
+  {
+    "id": "I_J_Q001",
+    "title": "Reverse a String",
+    "description": "Print the reverse of an input string.",
+    "languages": ["python", "c", "cpp"],
+    "test_cases": [
+      { "input": "hello", "expected_output": "olleh" },
+      { "input": "abc", "expected_output": "cba" }
+    ]
+  },
+  {
+    "id": "I_J_Q002",
+    "title": "Count Digits",
+    "description": "Print the number of digits in the input integer.",
+    "languages": ["python", "c", "cpp"],
+    "test_cases": [
+      { "input": "12345", "expected_output": "5" },
+      { "input": "0", "expected_output": "1" }
+    ]
+  }
+]

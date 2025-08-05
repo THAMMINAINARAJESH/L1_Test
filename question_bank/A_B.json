@@ -1,0 +1,22 @@
+[
+  {
+    "id": "A_B_Q001",
+    "title": "Sum of Two Numbers",
+    "description": "Read two integers and print their sum.",
+    "languages": ["python", "c", "cpp"],
+    "test_cases": [
+      { "input": "3 4", "expected_output": "7" },
+      { "input": "-5 5", "expected_output": "0" }
+    ]
+  },
+  {
+    "id": "A_B_Q002",
+    "title": "Check Even or Odd",
+    "description": "Determine if a number is even or odd.",
+    "languages": ["python", "c", "cpp"],
+    "test_cases": [
+      { "input": "2", "expected_output": "Even" },
+      { "input": "7", "expected_output": "Odd" }
+    ]
+  }
+]
