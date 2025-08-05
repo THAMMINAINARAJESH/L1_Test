@@ -2243,4 +2243,5 @@ if __name__ == '__main__':
         ssl_context = None
 
     # Run the Flask application
-    app.run ( debug=True, host="0.0.0.0", port=5000, ssl_context=ssl_context )
+    port = int ( os.environ.get ( "PORT", 8080 ) )  # Railway sets this automatically
+    app.run ( debug=True, host="0.0.0.0", port=port, ssl_context=ssl_context )
