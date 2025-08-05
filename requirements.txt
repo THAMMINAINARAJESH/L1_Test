@@ -2,12 +2,9 @@ Flask
 gunicorn
 python-dotenv
 Werkzeug
-hashlib
-uuid
 fpdf2
 opencv-python
 sounddevice
 scipy
 numpy
 requests
-pywin32
