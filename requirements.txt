@@ -3,5 +3,8 @@ gunicorn
 python-dotenv
 Werkzeug
 fpdf2
-requests
+opencv-python-headless
+sounddevice
+scipy
 numpy
+requests
